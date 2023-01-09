@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPMathAPI", "ASPMathAPI.csproj", "{7668B503-512C-457F-9DE7-EA7E74F383C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPMathAPI.Tests", "..\ASPMathAPI.Tests\ASPMathAPI.Tests.csproj", "{FF64268E-4543-40A1-935B-F0117414145E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7668B503-512C-457F-9DE7-EA7E74F383C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7668B503-512C-457F-9DE7-EA7E74F383C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7668B503-512C-457F-9DE7-EA7E74F383C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7668B503-512C-457F-9DE7-EA7E74F383C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF64268E-4543-40A1-935B-F0117414145E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF64268E-4543-40A1-935B-F0117414145E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF64268E-4543-40A1-935B-F0117414145E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF64268E-4543-40A1-935B-F0117414145E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D911689-4BC8-4286-AF9F-F242C9CBDAF0}
+	EndGlobalSection
+EndGlobal
